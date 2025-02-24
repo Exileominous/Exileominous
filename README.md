@@ -23,7 +23,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 I AM NOT HACKER
 ```
-**👆 This command line tool can be found at [SpeacterX0](https://github.com/SpecterX0/npx_card)**
+**👆 This command line tool can be found at [Exileominous](https://github.com/Exileominous/camhack)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
