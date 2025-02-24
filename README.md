@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  (Exileominous)!!, I'M 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  (EXILEOMINOUS)!!, I'M 
 BOY FORM USA <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
@@ -135,14 +135,3 @@ CSS                      7 repos             ██░░░░░░░░░�
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
-
-
-
-
- Last Updated on 11/02/2025 00:31:10 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
