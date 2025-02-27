@@ -8,7 +8,7 @@
 ```bash
 I AM NOT HACKER
 ```
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   
 
 ```javascript
 const anmol = {
@@ -78,7 +78,6 @@ Sunday                   978 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
 TypeScript               19 hrs 40 mins      ███████████████████████░░   91.70 % 
